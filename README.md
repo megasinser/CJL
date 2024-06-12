@@ -28,7 +28,10 @@ jumpers and UTP wires
 
 * `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
 * `video` contains the video.md file with the link to a video where driving demonstration exists
-* `schemes` contains one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
+* `schemes` ![image](https://github.com/megasinser/CJL/assets/172218545/2d2cd03f-d526-460e-b74d-bf8319b79a8f)
+
+* In the picture you can watch how the components that make the car works are conected, without even considering the color detection system.
+
 * `src` contains code of control software for all components which were programmed to participate in the competition
 
 * `other`![image](https://github.com/megasinser/CJL/assets/172218545/e6488643-3f07-460e-a66f-e38325339d0d) ![image](https://github.com/megasinser/CJL/assets/172218545/60036aba-ae2b-4365-8bf6-343d4149d472) ![image](https://github.com/megasinser/CJL/assets/172218545/1023b9ff-cf79-4327-85df-4dd405180b8e)
