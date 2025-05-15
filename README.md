@@ -28,7 +28,7 @@ jumpers and UTP wires
 
 * `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
 * `video` contains the video.md file with the link to a video where driving demonstration exists
-* `schemes` ![image](https://github.com/megasinser/CJL/assets/172218545/2d2cd03f-d526-460e-b74d-bf8319b79a8f)
+* `schemes` 
 
 * In the picture you can watch how the components that make the car works are conected, without even considering the color detection system.
 
