@@ -34,7 +34,7 @@ jumpers and UTP wires
 
 * `src` contains code of control software for all components which were programmed to participate in the competition
 
-* `other`![image](https://github.com/megasinser/CJL/assets/172218545/e6488643-3f07-460e-a66f-e38325339d0d) ![image](https://github.com/user-attachments/assets/6e243d78-3869-4b53-bc42-f2f5fd387e43) ![image](https://github.com/user-attachments/assets/23edb311-b0f5-40d5-b48f-c3643c94289a) ![image](https://github.com/user-attachments/assets/cac94e2f-9f1c-47c8-a012-d5de8cdf8eb3) ![image](https://github.com/user-attachments/assets/1b01f0b2-553e-4a33-8957-078d3880ced6)
+* `other`![image](https://github.com/megasinser/CJL/assets/172218545/e6488643-3f07-460e-a66f-e38325339d0d) ![image](https://github.com/user-attachments/assets/6e243d78-3869-4b53-bc42-f2f5fd387e43) ![image](https://github.com/user-attachments/assets/23edb311-b0f5-40d5-b48f-c3643c94289a) ![image](https://github.com/user-attachments/assets/1b01f0b2-553e-4a33-8957-078d3880ced6)
 
 
 
