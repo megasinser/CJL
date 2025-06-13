@@ -1,7 +1,9 @@
 Engineering materials
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025.
 
-Arduino UNO
+Arduino UNO R3
+
+Arduino UNO R4
 
 Servomotor MG995
 
@@ -45,7 +47,7 @@ jumpers and UTP wires
 
 ## Introduction
 
-In our project, we are using an Arduino Mega as the microcontroller. It controls a servomotor, ultrasonic sensors, and an Pixy CAM 2.1. The ultrasonic sensors, one on each side of the car and one in the front, indicate to the servomotor when the car needs to turn right or left. The sensor in the front works together with the cam to properly detect obstacles on the track. 
+In our project, we are using an Arduino uno as the microcontroller. It controls a servomotor, ultrasonic sensors, and an Pixy CAM 2.1. The ultrasonic sensors, one on each side of the car and one in the front, indicate to the servomotor when the car needs to turn right or left. The sensor in the front works together with the cam to properly detect obstacles on the track. 
 
 
 
