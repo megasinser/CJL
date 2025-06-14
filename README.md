@@ -71,5 +71,21 @@ To track the car’s laps, I implemented a counter in the Arduino connected to t
 
 The entire system was powered by a total of 8 volts from four 18650 batteries, with a 5-volt regulator used to supply power to the Arduino boards, sensors, and servos.
 
+## About us
+
+Meet Our Team:
+
+We are a team made up of Luis, Carlos, and José, and we share a strong passion for robotics. Each one of us brings something unique to the table, and together, we work hard to create something truly amazing.
+
+Carlos: Carlos is in charge of the mechanical and physical side of the vehicle. He’s the one who builds everything and makes sure the robot’s structure is solid and works well. His skills in mechanics are what make our robot functional and reliable.
+
+José: José is the one who handles the programming and logic. He loves coding and is great at solving problems. His work ensures the robot works the way it’s supposed to and can make decisions on its own.
+
+Luis: Luis is also focused on programming, but he’s especially good at connecting everything together and solving technical issues. His ability to troubleshoot and fix problems helps keep everything running smoothly.
+
+Our Approach:
+
+As a team, we’re all about working together and learning from each other. Carlos handles the physical build, José writes the code, and Luis makes sure everything fits together and works perfectly. We each have our strengths, and by combining them, we’re able to push the limits of what we can create in robotics. We’re excited to see where our skills and teamwork take us!
+
 
 
