@@ -18,7 +18,7 @@ Ultrasonic sensor (3)
 
 9v battery
 
-Pixy CAM 2.1
+Pixy CAM 2.1 with comunication cable
 
 wheels (4)
 
