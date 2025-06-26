@@ -1,6 +1,7 @@
 Team's photos
-![image](https://github.com/megasinser/CJL/assets/172218545/14d93f52-6cdb-4c9a-abed-25fd4ab526e0)
-![image](https://github.com/megasinser/CJL/assets/172218545/4f2bddf4-0a87-4ceb-940a-111719b3dad2)
+![Team picture](https://github.com/user-attachments/assets/6ad68620-3f3d-4119-a731-aa549e87af94)
+![funny picture](https://github.com/user-attachments/assets/cd657cab-5cef-4aa0-aa29-b41884e0d061)
+
 
 
 
